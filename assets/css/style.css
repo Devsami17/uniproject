@@ -1970,12 +1970,12 @@ font-size: 16px;
     }
 }
 
-@media only screen and (min-width: 2000px) {
+@media only screen and (min-width: 1800px) {
     .card-half-height img{
-        height: 340px !important;
+        height: 360px !important;
     }
     .card img{
-        height: 380px !important;
+        height: 470px !important;
     }
     .card {
         width: 32.5% !important;
